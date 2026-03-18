@@ -1,97 +1,6 @@
 {
   "events": [
     {
-      "date": "2026-03-16",
-      "title": "08:20 P1 Y9S2 Maths 13.2.2",
-      "start": "08:20",
-      "end": "09:10",
-      "colour": "gray"
-    },
-    {
-      "date": "2026-03-16",
-      "title": "09:10 P2 Y12S0 Maths",
-      "start": "09:10",
-      "end": "10:00",
-      "colour": "lightsteelblue"
-    },
-    {
-      "date": "2026-03-16",
-      "title": "11:40 P4 Y8S2 Maths 13.2.2",
-      "start": "11:40",
-      "end": "12:30",
-      "colour": "aqua"
-    },
-    {
-      "date": "2026-03-16",
-      "title": "Lunch",
-      "start": "12:30",
-      "end": "13:10",
-      "colour": "khaki"
-    },
-    {
-      "date": "2026-03-16",
-      "title": "13:10 P5 Y10S3 Maths 10.2.7",
-      "start": "13:10",
-      "end": "14:00",
-      "colour": "dodgerblue"
-    },
-    {
-      "date": "2026-03-16",
-      "title": "TAS 9GR21 7-1-2",
-      "start": "14:00",
-      "end": "14:50",
-      "colour": "darkred"
-    },
-    {
-      "date": "2026-03-16",
-      "title": "Test",
-      "start": "17:00",
-      "end": "18:00",
-      "colour": "peru"
-    },
-    {
-      "date": "2026-03-17",
-      "title": "TAS Engineering role",
-      "start": "09:10",
-      "end": "10:00",
-      "colour": "saddlebrown"
-    },
-    {
-      "date": "2026-03-17",
-      "title": "10:50 P3 Y12S0 Maths",
-      "start": "10:50",
-      "end": "11:40",
-      "colour": "lightsteelblue"
-    },
-    {
-      "date": "2026-03-17",
-      "title": "Lunch",
-      "start": "12:30",
-      "end": "13:10",
-      "colour": "khaki"
-    },
-    {
-      "date": "2026-03-17",
-      "title": "13:10 P5 Y8S2 Maths 13.2.2",
-      "start": "13:10",
-      "end": "14:00",
-      "colour": "aqua"
-    },
-    {
-      "date": "2026-03-17",
-      "title": "14:00 P6 Y10S3 Maths 10.2.7",
-      "start": "14:00",
-      "end": "14:50",
-      "colour": "dodgerblue"
-    },
-    {
-      "date": "2026-03-17",
-      "title": "Robotics",
-      "start": "15:00",
-      "end": "17:00",
-      "colour": "orange"
-    },
-    {
       "date": "2026-03-18",
       "title": "Year 5 HPL Maths",
       "start": "08:20",
@@ -146,6 +55,13 @@
       "start": "08:20",
       "end": "09:10",
       "colour": "aqua"
+    },
+    {
+      "date": "2026-03-19",
+      "title": "9:10 Feedback",
+      "start": "09:10",
+      "end": "10:00",
+      "colour": "thistle"
     },
     {
       "date": "2026-03-19",
@@ -1346,6 +1262,97 @@
     },
     {
       "date": "2026-04-27",
+      "title": "14:00 P6 Y8S2 Maths 13.2.2",
+      "start": "14:00",
+      "end": "14:50",
+      "colour": "aqua"
+    },
+    {
+      "date": "2026-04-28",
+      "title": "08:20 P1 Y8S2 Maths 13.2.2",
+      "start": "08:20",
+      "end": "09:10",
+      "colour": "aqua"
+    },
+    {
+      "date": "2026-04-28",
+      "title": "10:50 P3 Y9S2 Maths 13.2.2",
+      "start": "10:50",
+      "end": "11:40",
+      "colour": "gray"
+    },
+    {
+      "date": "2026-04-28",
+      "title": "11:40 P4 Y9 HPL",
+      "start": "11:40",
+      "end": "12:30",
+      "colour": "green"
+    },
+    {
+      "date": "2026-04-28",
+      "title": "Lunch",
+      "start": "12:30",
+      "end": "13:10",
+      "colour": "khaki"
+    },
+    {
+      "date": "2026-04-28",
+      "title": "13:10 P5 Y12S0 Maths",
+      "start": "13:10",
+      "end": "14:00",
+      "colour": "lightsteelblue"
+    },
+    {
+      "date": "2026-04-28",
+      "title": "Robotics",
+      "start": "15:00",
+      "end": "17:00",
+      "colour": "orange"
+    },
+    {
+      "date": "2026-04-29",
+      "title": "Year 5 HPL Maths",
+      "start": "08:20",
+      "end": "09:10",
+      "colour": "indianred"
+    },
+    {
+      "date": "2026-04-29",
+      "title": "09:10 P2 Y10S3 Maths 10.2.7",
+      "start": "09:10",
+      "end": "10:00",
+      "colour": "dodgerblue"
+    },
+    {
+      "date": "2026-04-29",
+      "title": "Chapel/Tutor",
+      "start": "10:00",
+      "end": "10:50",
+      "colour": "mediumpurple"
+    },
+    {
+      "date": "2026-04-29",
+      "title": "10:50 P3 Y10 HPL",
+      "start": "10:50",
+      "end": "11:40",
+      "colour": "yellowgreen"
+    },
+    {
+      "date": "2026-04-29",
+      "title": "11:40 P4 Y7 HPL",
+      "start": "11:40",
+      "end": "12:30",
+      "colour": "palegreen"
+    },
+    {
+      "date": "2026-04-29",
+      "title": "Lunch",
+      "start": "12:30",
+      "end": "13:10",
+      "colour": "khaki"
+    },
+    {
+      "date": "2026-04-29",
       "title": "14:00 P6 Y8S2 Maths 13.2.2",
       "start": "14:00",
       "end": "14:50",
